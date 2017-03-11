@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flow-Mortar w/ Meshkit Example</string>
+    <string name="button_text">Button</string>
+    <string name="title_activity_my">MyActivity</string>
+
+    <string name="application_id">app id</string>
+    <string name="client_secret">client secret</string>
+</resources>

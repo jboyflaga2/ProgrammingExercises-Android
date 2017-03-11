@@ -1,0 +1,41 @@
+<com.example.flowmortarexample.MyView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/my_id_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/channel_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="myTestChannel" />
+
+    <Button
+        android:id="@+id/subscribe_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Subscribe"/>
+
+
+    <EditText
+        android:id="@+id/message_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="myTestChannel" />
+
+    <Button
+        android:id="@+id/publish_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Publish Message"/>
+
+    <TextView
+        android:id="@+id/current_result_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</com.example.flowmortarexample.MyView>

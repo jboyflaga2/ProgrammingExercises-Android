@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2016-10-28.1_switch_between_activities/2016-10-28.1_switch_between_activities.iml" filepath="$PROJECT_DIR$/2016-10-28.1_switch_between_activities/2016-10-28.1_switch_between_activities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2016-10-28.2_material_design/2016-10-28.2_material_design.iml" filepath="$PROJECT_DIR$/2016-10-28.2_material_design/2016-10-28.2_material_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidPractice.iml" filepath="$PROJECT_DIR$/AndroidPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

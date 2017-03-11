@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flow-Mortar Example</string>
+    <string name="button_text">Button</string>
+    <string name="title_activity_my">MyActivity</string>
+</resources>
