@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.wx.wheelview.widget.WheelView
+        android:id="@+id/sleep_date_wheelview"
+        android:layout_width="0dp"
+        android:layout_height="140dp"
+        android:layout_weight="4" />
+
+    <com.wx.wheelview.widget.WheelView
+        android:id="@+id/sleep_hour_wheelview"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"/>
+
+    <com.wx.wheelview.widget.WheelView
+        android:id="@+id/sleep_minutes_wheelview"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"/>
+
+    <com.wx.wheelview.widget.WheelView
+        android:id="@+id/sleep_period_wheelview"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

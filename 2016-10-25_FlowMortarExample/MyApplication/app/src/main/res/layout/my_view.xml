@@ -20,4 +20,9 @@
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
+    <com.example.flowmortarexample.wheelview.DateTimeWheelView
+        android:id="@+id/datetime_wheelview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.example.flowmortarexample.wheelview.DateTimeWheelView>
 </com.example.flowmortarexample.MyView>

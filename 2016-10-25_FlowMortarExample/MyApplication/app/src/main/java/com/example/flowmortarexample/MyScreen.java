@@ -72,6 +72,7 @@ public class MyScreen implements Blueprint {
         private void updateView() {
             if(lastResult != null) {
                 getView().showResult(lastResult);
+                getView().showDateTimeWheelView();
             }
         }
     }
