@@ -33,7 +33,7 @@ public class MyScreenPresenterTest {
     public void Init() {
         MockitoAnnotations.initMocks(this);
 
-        given(_mockContext.getSystemService(anyString())).willReturn(_mockMortarScope);
+        given(_mockContext.getSystemService("mortar_scope")).willReturn(_mockMortarScope);
         given(_mockView.getContext()).willReturn(_mockContext);
 
         _presenter = new MyScreen.Presenter(_mockSomeAsyncService);
